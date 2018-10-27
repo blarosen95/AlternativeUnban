@@ -1,0 +1,9 @@
+name: AlternativeUnban
+version: ${project.version}
+main: com.github.blarosen95.alternativeunban.AlternativeUnban
+authors: [The_Dale_Gribble]
+description: Provides an alternative to EssentialsX for unbanning players
+commands:
+  altpardon:
+    description: An alternative to Essentials /pardon command
+    usage: /pardon
